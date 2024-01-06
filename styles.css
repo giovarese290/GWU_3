@@ -1,0 +1,46 @@
+
+
+
+.MyHeader{background-color: bisque; text-align: center; padding: 23px;
+margin-top: -9px; color: gray; font-size: 53px; position:fixed;}
+
+.hero{margin-top: -22px;}
+
+.FontFam1{font-family: 'Inter';}
+
+.Fontfam2{font-family: 'Mulish', sans-serif;}
+    
+    .middle{background-color: rgb(208, 154, 39); width: 100%;
+    text-align: center;}
+    .cities{background-color: antiquewhite; color: gray;
+    margin: 20px; display:inline-block; margin-top: 25px; padding: 15px;}
+    
+    .largeFont{font-size: 22px; font-family: 'Inter'; color: rgb(80, 76, 76);}
+    
+    .Earth{color: blueviolet;}
+    
+    
+    .Mega{font-size: 60px; text-decoration: none;}
+    
+    .Alpha{color: darkolivegreen; font-size: 30px; margin: 25px;}
+    
+    .Round{border-radius: 15px;}
+    
+    .bottom{background-color: rgb(124, 169, 224);  padding: 15px; margin-top: 25px;
+    display: block; position: relative; }
+    .Title{display: inline-block; margin-top: 10px; margin-left: 4px;}
+
+    .info{text-align: center; }
+    .cards{display: inline-block; text-align: center; margin-right: 25px;}
+
+    .Vcard{background-color: rgb(226, 195, 19); padding: 25px; margin-bottom: 9px;
+    margin-top: 45px; width: 300px;}
+
+    .pics{float:left; margin-top: 28px;}
+
+    #Main{width: 300px; height: 300px; background-color: bisque; margin-top: 100px;
+    position:relative;}
+
+    #Abs{width: 50px; height: 50px; background-color: aqua; top: 100px;
+    left: 100px;border-radius: 50%; position:fixed;}
+
