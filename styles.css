@@ -30,8 +30,17 @@ margin-top: -9px; color: gray; font-size: 53px; position:fixed;}
     display: block; position: relative; }
     .Title{display: inline-block; margin-top: 10px; margin-left: 4px;}
 
+
+
+    /* ----------------------- */
+
+
+
+
+    /* INLINE BLOCK EXAMPLE */
+
     .info{text-align: center; }
-    .cards{display: inline-block; text-align: center; margin-right: 25px;}
+    .cards{display: inline-block; text-align: center; margin-right: 25px; border-radius: 12px;}
 
     .Vcard{background-color: rgb(226, 195, 19); padding: 25px; margin-bottom: 9px;
     margin-top: 45px; width: 300px;}
@@ -41,6 +50,40 @@ margin-top: -9px; color: gray; font-size: 53px; position:fixed;}
     #Main{width: 300px; height: 300px; background-color: bisque; margin-top: 100px;
     position:relative;}
 
-    #Abs{width: 50px; height: 50px; background-color: aqua; top: 100px;
+    #Abs{width: 100px; height: 100px; background-color: aqua; top: 100px;
     left: 100px;border-radius: 50%; position:fixed;}
 
+    button{display: block; margin-top: 55px; color: black;} */
+
+p{color: blueviolet; border: 2px solid red;}
+
+    span{color: rgb(96, 45, 225); border: 4px solid black; padding: 25px;}
+
+ /* ----------------------- */   
+
+/* SPAN AS INLINE block */
+
+
+
+
+
+/* POSITION ABSOLUTE and RELATIVE */
+/* div#main{width: 300px; height: 300px; background-color: pink; 
+    position: absolute; left: 500px; top: 100px;}
+
+div#main div{width: 100px; height: 100px; background-color: aqua; position:absolute;
+top: 40px; left: 35%; border-radius: 50%;} */
+
+
+/* position:absolute: This is a position related to the body. 
+top: 800px; left: 100px;
+
+IF I DON'T SPECIFY THE POSITION RELATIVE THE BODY WILL BE THE CONTAINER*/
+
+/* CHANGE THE COORDINATES */
+
+/*1. top: -10px; or -20px left: 50%; or 40% to place absolute  
+kind of the top middle of square.
+2. Add border-radius: 50% 
+3. Then make it width:100px and height: 100px  with left: 30%
+4. Top: -40% */
